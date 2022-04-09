@@ -1,0 +1,54 @@
+[
+    {
+        "FirstName": "Aftab",
+        "LastName": "Alam",
+        "Address": "Govindpura",
+        "city": "Banglore",
+        "state": "Karnataka",
+        "zip": 560045,
+        "PhoneNumber": 7975819623,
+        "Email": "alam12@gmail.com",
+        "Gender": "Male",
+        "Profession": "ME"
+    },
+    {
+        "PatientName": "Roy",
+        "PatientId": "21",
+        "address": "Kalopul",
+        "city": "Kathmandu",
+        "state": "Lalitpur",
+        "Age": "25",
+        "phoneNumber": "91 7975819623",
+        "emailId": "sad12@gmail.com"
+    },
+    {
+        "PatientName": "Royal",
+        "PatientId": "25",
+        "address": "Inarwa",
+        "city": "Jeetpur",
+        "state": "Bara",
+        "Age": "40",
+        "phoneNumber": "91 7975819623",
+        "emailId": "Roya12@gmail.com"
+    },
+    {
+        "PatientName": "Aftab",
+        "PatientId": "20",
+        "address": "Chhapkaiya",
+        "city": "Brigunj",
+        "state": "Parsa",
+        "Age": "25",
+        "phoneNumber": "91 7975819623",
+        "emailId": "alam1@gmail.com"
+    },
+    {
+        "PatientName": "Aftab",
+        "PatientId": "25",
+        "address": "nagawara",
+        "city": "Banglore",
+        "state": "Karnataka",
+        "Age": "30",
+        "phoneNumber": "91 7975819623",
+        "emailId": "alam1@gmail.com"
+    }
+]
